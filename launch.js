@@ -153,7 +153,7 @@ $(document).ready(function(){
                     setCookie("81", "http://www.quora.com");
                     setCookie("83", "http://stackoverflow.com/");
                     setCookie("90", "http://www.zhihu.com");
-                    setCookie('searchEngine', 'Bing');
+                    setCookie('searchEngine', 'Baidu');
                     setCookie("FIRSTTIME", "FLASE");
                     }
 
